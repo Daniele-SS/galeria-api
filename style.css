@@ -14,13 +14,13 @@ body{
 
 .container-pesquisa input{
     flex-grow: 1;
-    padding: 12px;
-    font-size: 32px;
+    padding: 15px;
+    font-size: 30px;
 }
 
 .container-pesquisa button{
-    padding: 30px;
-    font-size: 50px;
+    padding: 10px;
+    font-size: 20px;
 }
 
 .container-galeria{
